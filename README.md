@@ -29,7 +29,7 @@ You can either:
 if you choose to provide a file, the script will remember the last directory you used to make it easier to load the next time.
 
 ## License
-This Project is licensed under the MIT License - see the LICENSE file for details
+This Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Contributing
 
