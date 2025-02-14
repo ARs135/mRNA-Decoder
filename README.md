@@ -20,3 +20,15 @@ or
 ```bash
 python3 mRNA_Decoder.py
 ```
+
+## Inputs
+You can either:
+- Enter the mRNA Sequence Manually, or
+- Provide a .txt File Containing the Sequence
+
+if you choose to provide a file, the script will remember the last directory you used to make it easier to load the next time.
+
+## License
+This Project is licensed under the MIT License - see the LICENSE file for details
+
+## Contributing
