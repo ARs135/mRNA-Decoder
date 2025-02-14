@@ -40,3 +40,4 @@ This Project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Side Notes
 - This is a Pretty Basic Project with Some Pretty Basic Python Code and There's Pletty of Room for Optimization
 - If You Want to Change the Saved Directory Without Running the Script then Replace the Dircetory in the Directory File ([Directory](directory.txt))
+- This Repository Includes a .txt File to start With (You Can Rename the File if you want)
