@@ -32,12 +32,13 @@ if you choose to provide a file, the script will remember the last directory you
 This Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Contributing
-
+Feel Free to make Forks in this Repository, Make Changes, Optimize Code, and Submit pull requests.
+Contributions are Welcome
 
 ## Acknowledgments
 
 
 ## Side Notes
-- This is a Pretty Basic Project with Some Pretty Basic Python Code and There's Pletty of Room for Optimization
-- If You Want to Change the Saved Directory Without Running the Script then Replace the Dircetory in the Directory File ([Directory](directory.txt))
-- This Repository Includes a .txt File to start With (You Can Rename the File if you want)
+- This is a Pretty Basic Project with Some Pretty Basic Python Code and There's Plenty of Room for Optimization
+- If You Want to Change the Saved Directory Without Running the Script then Replace the Directory in the Directory File ([Directory](directory.txt))
+- This Repository Includes a .txt File With a Starter Sequence to start With (You Can Rename the File if you want)
