@@ -32,3 +32,6 @@ if you choose to provide a file, the script will remember the last directory you
 This Project is licensed under the MIT License - see the LICENSE file for details
 
 ## Contributing
+
+
+## Acknowledgments
