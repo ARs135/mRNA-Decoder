@@ -35,9 +35,6 @@ This Project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel Free to make Forks in this Repository, Make Changes, Optimize Code, and Submit pull requests.
 Contributions are Welcome
 
-## Acknowledgments
-
-
 ## Side Notes
 - This is a Pretty Basic Project with Some Pretty Basic Python Code and There's Plenty of Room for Optimization
 - If You Want to Change the Saved Directory Without Running the Script then Replace the Directory in the Directory File ([Directory](directory.txt))
