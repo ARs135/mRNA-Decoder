@@ -15,6 +15,8 @@ Put the directory.txt file in C:\Users\Administrator\Documents.
 To run the Script, Use One of the Following Commands
 ```bash
 python mRNA_Decoder.py
+```
 or
 ```bash
 python3 mRNA_Decoder.py
+```
